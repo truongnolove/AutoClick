@@ -1,0 +1,10 @@
+E:\AutoClick\AutoClick\AutoClick\bin\Debug\AutoClick.exe.config
+E:\AutoClick\AutoClick\AutoClick\bin\Debug\AutoClick.exe
+E:\AutoClick\AutoClick\AutoClick\bin\Debug\AutoClick.pdb
+E:\AutoClick\AutoClick\AutoClick\obj\Debug\AutoClick.csproj.AssemblyReference.cache
+E:\AutoClick\AutoClick\AutoClick\obj\Debug\AutoClick.Form1.resources
+E:\AutoClick\AutoClick\AutoClick\obj\Debug\AutoClick.Properties.Resources.resources
+E:\AutoClick\AutoClick\AutoClick\obj\Debug\AutoClick.csproj.GenerateResource.cache
+E:\AutoClick\AutoClick\AutoClick\obj\Debug\AutoClick.csproj.CoreCompileInputs.cache
+E:\AutoClick\AutoClick\AutoClick\obj\Debug\AutoClick.exe
+E:\AutoClick\AutoClick\AutoClick\obj\Debug\AutoClick.pdb
